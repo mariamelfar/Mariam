@@ -1,8 +1,3 @@
-<!-- Banner (optional: replace with your own later) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Mariam Elfar Banner">
-</p>
-
 <p>
   <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left">
 </p>
