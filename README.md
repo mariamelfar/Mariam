@@ -1,55 +1,73 @@
-  <p><img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Aditya Vikram Singh Banner"></p>
-<p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Aditya</h2><p></p>
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-<h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
-🎓 &nbsp;I’m currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.<br>
-🌱 &nbsp;I’m on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.<br>
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.<br>
-✉️ &nbsp;You can shoot me an email at <a href="mailto:avsingh@umass.edu">avsingh@umass.edu</a>! I’ll try to respond as soon as I can.<br>
-📄 &nbsp;Please have a look at my <a href="https://www.adityavsingh.com/resume.html">Résumé</a> for more details about me. I’m open to feedback and suggestions!</p>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
-<h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
-<p><img src="https://img.shields.io/badge/-Python-05122A?style=flat&amp;logo=python" alt="Python">&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&amp;logo=javascript" alt="JavaScript">&nbsp;
-<img src="https://img.shields.io/badge/-Java-05122A?style=flat&amp;logo=Java&amp;logoColor=FFA518" alt="Java">&nbsp;
-<img src="https://img.shields.io/badge/-C-05122A?style=flat&amp;logo=C&amp;logoColor=A8B9CC" alt="C">&nbsp;
-<img src="https://img.shields.io/badge/-C++-05122A?style=flat&amp;logo=C%2B%2B&amp;logoColor=00599C" alt="C++">&nbsp;
-<img src="https://img.shields.io/badge/-R-05122A?style=flat&amp;logo=R&amp;logoColor=276DC3" alt="R (Statistics)"><br>
-<img src="https://img.shields.io/badge/-React-05122A?style=flat&amp;logo=react" alt="React">&nbsp;
-<img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&amp;logo=node.js" alt="Node.js">&nbsp;
-<img src="https://img.shields.io/badge/-Django-05122A?style=flat&amp;logo=django&amp;logoColor=092E20" alt="Django">&nbsp;
-<img src="https://img.shields.io/badge/-Flask-05122A?style=flat&amp;logo=flask" alt="Flask">&nbsp;
-<img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&amp;logo=bootstrap&amp;logoColor=563D7C" alt="Bootstrap"><br>
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" alt="HTML">&nbsp;
-<img src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" alt="CSS">&nbsp;
-<img src="https://img.shields.io/badge/-Git-05122A?style=flat&amp;logo=git" alt="Git">&nbsp;
-<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&amp;logo=github" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&amp;logo=markdown" alt="Markdown"><br>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&amp;logo=visual-studio-code&amp;logoColor=007ACC" alt="Visual Studio Code">&nbsp;
-<img src="https://img.shields.io/badge/-RStudio-05122A?style=flat&amp;logo=rstudio" alt="RStudio">&nbsp;
-<img src="https://img.shields.io/badge/-Eclipse-05122A?style=flat&amp;logo=eclipse-ide&amp;logoColor=2C2255" alt="Eclipse"><br>
-<img src="https://img.shields.io/badge/-Illustrator-05122A?style=flat&amp;logo=adobe-illustrator" alt="Illustrator">&nbsp;
-<img src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&amp;logo=adobe-photoshop" alt="Photoshop">&nbsp;
-<img src="https://img.shields.io/badge/-InDesign-05122A?style=flat&amp;logo=adobe-indesign" alt="InDesign"></p>
-<h3 id="️-github-analytics">⚙️ &nbsp;GitHub Analytics</h3>
+<!-- Banner (optional: replace with your own later) -->
 <p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&amp;show_icons=true&amp;theme=algolia&amp;include_all_commits=true&amp;count_private=true">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&amp;layout=compact&amp;langs_count=8&amp;theme=algolia">
+  <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg" alt="Mariam Elfar Banner">
+</p>
+
+<p>
+  <img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width="40" align="left">
+</p>
+<h2>Hey there! I’m Mariam 👋</h2>
+<p></p>
+
+<h3>👩🏻‍💻 &nbsp;About Me</h3>
+<p>
+💡 &nbsp;I’m a Mechatronics Engineering student with a strong interest in robotics, systems design, and applied engineering problem-solving.<br>
+🎓 &nbsp;Currently pursuing my BEng in Mechatronics Engineering at the University of Hertfordshire.<br>
+🤖 &nbsp;I enjoy working at the intersection of mechanical design, electronics, and control systems, especially in robotics and automation projects.<br>
+🌱 &nbsp;I’m continuously developing my skills in embedded systems, control theory, CAD design, and software-hardware integration.<br>
+👩‍ leadership &nbsp;Founder and Chair of IEEE Women in Engineering (WIE) – University of Hertfordshire Student Branch, leading initiatives focused on inclusion, technical growth, and professional development.<br>
+✍️ &nbsp;I value clear, human-centered communication and enjoy writing as a way to organize ideas and reflect on experiences.<br>
+💬 &nbsp;Always open to collaboration, volunteering, and meaningful technical discussions.<br>
+📄 &nbsp;Have a look at my CV and projects to see my academic, technical, and leadership journey.
+</p>
+
+<img alt="Engineering Work" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+
+<h3>🛠 &nbsp;Technical Skills</h3>
+<p>
+<b>Programming & Control:</b><br>
+<img src="https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=mathworks">
+<img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python">
+<img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC">
+<img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C">
+<br><br>
+
+<b>Robotics & Engineering Tools:</b><br>
+<img src="https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=dassaultsystemes">
+<img src="https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk">
+<img src="https://img.shields.io/badge/-Simulink-05122A?style=flat&logo=mathworks">
+<img src="https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino">
+<br><br>
+
+<b>Development & Collaboration:</b><br>
+<img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git">
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github">
+<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown">
+<img src="https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+</p>
+
+<h3>⚙️ &nbsp;GitHub Analytics</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=algolia&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=8&theme=algolia">
+</p>
+
+<h3>🤝🏻 &nbsp;Connect With Me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white">
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white">
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white">
 </a>
 </p>
-<h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
-<p align="center">
-<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&amp;logo=Google-Chrome&amp;logoColor=white"></a>
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&amp;logo=Linkedin&amp;logoColor=white"></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white"></a>
-<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&amp;logo=Instagram&amp;logoColor=white"></a>
-<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&amp;logo=Facebook&amp;logoColor=white"></a>
-<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&amp;logo=Pinterest&amp;logoColor=white"></a>
-<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&amp;logo=Behance&amp;logoColor=white"></a>
-</p>
+
 <hr>
-<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
+<p align="center">
+Last updated • 2026
+</p>
+ikram Singh</a></p>
 <p>Last Edited on: 11/12/2020</p> 
